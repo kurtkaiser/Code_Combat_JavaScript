@@ -1,0 +1,14 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Lowly Kithmen - Level 16A
+
+// Create a second variable and attack it!
+
+var cat = hero.findNearestEnemy();
+hero.attack(cat);
+hero.attack(cat);
+var dude = hero.findNearestEnemy();
+hero.attack(dude);
+hero.attack(dude);
+hero.moveDown();
+hero.moveRight(2);
