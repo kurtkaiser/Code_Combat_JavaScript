@@ -1,0 +1,15 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// The Final Kithmaze - Level 17
+
+// Use a while-true loop to both move and attack.
+while(true) {
+    hero.moveRight();
+    hero.moveUp();
+    hero.moveRight();
+    var guy = hero.findNearestEnemy();
+    hero.attack(guy);
+    hero.attack(guy);
+    hero.moveDown(2);
+    hero.moveUp();
+}
