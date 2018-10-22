@@ -1,0 +1,12 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Haunted Kithmaze - Level 10
+
+// Code normally executes in the order it's written.
+// Loops repeat a block of code multiple times.
+// Loops are a better way of doing repetitive things.
+
+while(true) {
+    hero.moveRight(2);
+    hero.moveUp(2);
+}
