@@ -1,0 +1,10 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Crawlways of Kithgard - Level 3B
+
+// Avoid being seen by the ogres.
+
+hero.moveRight();
+hero.moveLeft();
+hero.moveRight();
+hero.moveRight();
