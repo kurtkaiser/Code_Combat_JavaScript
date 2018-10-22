@@ -1,0 +1,16 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Concept Challenge: Long Steps
+
+// This is a concept challenge level about arguments.
+// Grab the gems and go to the exit.
+// Your code should have no more than 7 commands.
+// Use movement commands with arguments.
+
+hero.moveRight();
+hero.moveUp(3);
+hero.moveRight(2);
+hero.moveDown(3);
+hero.moveLeft();
+hero.moveUp(2);
+hero.moveRight(3);
