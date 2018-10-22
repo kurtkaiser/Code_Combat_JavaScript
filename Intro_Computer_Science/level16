@@ -1,0 +1,23 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Master of Names - Level 16
+
+// Your hero doesn't know the names of these enemies!
+// Use the findNearestEnemy method on your new glasses.
+
+// Assign the result of hero.findNearestEnemy() to the variable enemy1:
+var dude = hero.findNearestEnemy();
+// enemy1 now refers to the nearest enemy. Use the variable to attack!
+hero.attack(dude);
+hero.attack(dude);
+
+// Now that enemy1 is defeated, calling hero.findNearestEnemy() again will result in finding the new nearest enemy.
+var y = hero.findNearestEnemy();
+hero.attack(y);
+hero.attack(y);
+
+// Assign the result of hero.findNearestEnemy() to the variable enemy3:
+var enemy3 = hero.findNearestEnemy();
+// Now attack using the enemy3 variable:
+hero.attack(enemy3);
+hero.attack(enemy3);
