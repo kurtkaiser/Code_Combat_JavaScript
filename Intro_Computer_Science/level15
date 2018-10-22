@@ -1,0 +1,18 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Known Enemy - Level 15
+
+// You can use a variable like a nametag.
+
+var x = "Kratt";
+var enemy2 = "Gert";
+var bobby = "Ursa";
+
+hero.attack(x);
+hero.attack(x);
+
+hero.attack(enemy2);
+hero.attack(enemy2);
+
+hero.attack(bobby);
+hero.attack(bobby);
