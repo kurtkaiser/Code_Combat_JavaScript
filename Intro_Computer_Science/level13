@@ -1,0 +1,19 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Hack and Dash - Level 13
+
+// You can write code before a loop.
+hero.moveRight();
+// Break open the "Chest" before using the loop to escape the maze!
+hero.moveUp();
+hero.attack("Chest");
+hero.moveDown();
+
+// Return back back into the main hallway.
+
+while(true) {
+    // Move 3 times.
+    hero.moveRight(3);
+    // Move 3 times more.
+    hero.moveDown(3);
+}
