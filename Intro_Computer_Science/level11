@@ -1,0 +1,9 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Descending Further - Level 11
+
+// Navigate the maze in less than 5 statements.
+while(true) {
+    hero.moveRight(2);
+    hero.moveDown();
+}
