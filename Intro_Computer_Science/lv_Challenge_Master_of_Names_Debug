@@ -1,0 +1,18 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Concept Challenge: Master of Names Debug
+
+// There is a mistake in the code below.
+// Try to figure out what it is, then fix it!
+
+var bobby = hero.findNearestEnemy();
+hero.attack(bobby);
+hero.attack(bobby);
+
+var x = hero.findNearestEnemy();
+hero.attack(x);
+hero.attack(x);
+
+var enemy3 = hero.findNearestEnemy();
+hero.attack(enemy3);
+hero.attack(enemy3);
