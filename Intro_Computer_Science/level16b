@@ -1,0 +1,17 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Closing the Distance - Level 16B
+
+hero.moveRight();
+
+// You should recognize this from the last level.
+var enemy1 = hero.findNearestEnemy();
+// Now attack enemy1.
+hero.attack(enemy1);
+hero.attack(enemy1);
+hero.moveRight(2);
+var enemy2 = hero.findNearestEnemy();
+hero.attack(enemy2);
+hero.attack(enemy2);
+hero.moveDown();
+hero.moveRight();
