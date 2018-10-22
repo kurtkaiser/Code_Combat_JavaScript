@@ -1,0 +1,11 @@
+// Code Combat - JavaScript
+// Introduction to Computer Science
+// Illusory Interruption - Level 4A
+
+// Use the Decoy to distract the guards by stepping on the X.
+hero.moveRight();
+hero.moveDown();
+hero.moveDown();
+hero.moveUp();
+hero.moveUp();
+hero.moveRight(3);
